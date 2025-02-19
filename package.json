@@ -24,6 +24,6 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "dotenv": "^4.0.0",
-    "dotenv-expand": "^4.0.1"
+    "dotenv-expand": "^4.2.0"
   }
 }
